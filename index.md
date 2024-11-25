@@ -2,6 +2,7 @@
 # Aaron Truong's Portfolio
 
 I am a computer science major at CSUF and I plan onn graduating in 2028 with my BA degree.
+A link to my GitHub Profile: https://github.com/aarontrxong
 
 ## Favorite CPSC 120L Labs
 
